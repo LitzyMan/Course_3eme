@@ -1,0 +1,23 @@
+.navbar-brand {
+    font-size: 50px;
+}
+body::before {
+    display: block;
+    content: '';
+    height: 60px;
+}
+@media(min-width: 768px) {
+    .news-input {
+        width: 50%;
+    }
+}
+.course {
+    padding-top: 90px;
+}
+.pdf {
+    align-items: center;
+}
+.course-link {
+    text-decoration: none;
+    color: black;
+}
