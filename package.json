@@ -1,0 +1,16 @@
+{
+  "name": "projet-college",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://LitzyMan.github.io/Course_3eme",
+  "dependencies": {
+    "gh-pages": "^6.0.0"
+  }
+}
