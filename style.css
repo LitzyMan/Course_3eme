@@ -21,3 +21,23 @@ body::before {
     text-decoration: none;
     color: black;
 }
+#history-course {
+    padding-top: 90px;
+    margin: auto;
+}
+#course {
+    padding-top: 90px;
+}
+h1 {
+    font-size: 100px;
+}
+.subtitle {
+    padding-top: 20px;
+    color: #226e93;
+    font-family: lato, sans-serif;
+    font-size: 45px;
+}
+.two {
+    display: flex;
+    
+}
